@@ -16,8 +16,8 @@ namespace AllChat
             }
             catch
             {
-                MessageBox.Show("Can't connect to server...");
-                this.Close();
+                //MessageBox.Show("Can't connect to server...");
+                //this.Close();
             }
         }
 
