@@ -282,6 +282,11 @@ namespace AllChat
             MessageBox.Show("Comming soon...");
         }
 
+        private void chatRichBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void button2_Click(object sender, EventArgs e)
         {
             try
